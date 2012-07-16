@@ -15,7 +15,7 @@ Bundle 'daviddavis/vim-colorpack'
 Otherwise, if you're running pathogen, run this commands from the command line:
 
 ```
-https://github.com/daviddavis/vim-colorpack.git ~/.vim/bundle/vim-colorpack
+git clone https://github.com/daviddavis/vim-colorpack.git ~/.vim/bundle/vim-colorpack
 ```
 
 If you're not running Vundle or pathogen, then you need to be.
